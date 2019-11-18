@@ -1,0 +1,1 @@
+<?php echo sh_get_ical(); ?>

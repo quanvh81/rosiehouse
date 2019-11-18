@@ -1,0 +1,89 @@
+<wpml-config>
+	
+	<custom-types>
+		<custom-type translate="1">testimonials</custom-type>
+		<custom-type translate="1">accommodation</custom-type>
+		<custom-type translate="1">coupons</custom-type>
+		<custom-type translate="1">services</custom-type>
+	</custom-types>
+	
+    <admin-texts>
+		<key name="sohohotel_data">
+			<key name="site-layout-style" />
+			<key name="background-layout-style" />
+			<key name="site-header-style" />
+			<key name="top-right-menu" />
+			<key name="top-left-phone" />
+			<key name="top-left-address" />
+			<key name="top-right-menu-text" />
+			<key name="top-right-button-text" />
+			<key name="top-right-button-link-target" />
+			<key name="google-map-api-key" />
+			<key name="footer-message" />
+			<key name="accommodation_slug" />
+			<key name="testimonials_slug" />
+			<key name="booking-email" />
+			<key name="email-sender-name" />
+			<key name="booking-phone" />
+			<key name="booking-address" />
+			<key name="do_not_record_bookings" />
+			<key name="booking_form_max_person" />
+			<key name="booking_form_max_rooms" />
+			<key name="minimum_stay" />
+			<key name="date_format" />
+			<key name="weekend_nights" />
+			<key name="weekly_booking_nights" />
+			<key name="monthly_booking_nights" />
+			<key name="booking_page_url" />
+			<key name="currency_unit" />
+			<key name="currency_position" />
+			<key name="deposit_percentage" />
+			<key name="booking_success_message" />
+			<key name="payment_success_message" />
+			<key name="terms_conditions" />
+			<key name="booking_email_subject_guest" />
+			<key name="booking_email_content_guest" />
+			<key name="booking_email_subject_admin" />
+			<key name="booking_email_content_admin" />
+			<key name="custom_booking_form" />
+			<key name="paypal-currency" />
+			<key name="paypal-sandbox" />
+			<key name="paypal-address" />
+			<key name="paypal_thankyou" />
+			<key name="stripe-currency" />
+			<key name="stripe-testmode" />
+			<key name="stripe-test-secret-key" />
+			<key name="stripe-test-publishable-key" />
+			<key name="stripe-live-secret-key" />
+			<key name="stripe-live-publishable-key" />
+			<key name="logo-image" />
+			<key name="main-color" />
+			<key name="secondary-color" />
+			<key name="page-background-color" />
+			<key name="google_font_name_1" />
+			<key name="google_font_url_1" />
+			<key name="google_font_name_2" />
+			<key name="google_font_url_2" />
+			<key name="page-header-image" />
+			<key name="page-not-found" />
+			<key name="booking-page-image" />
+			<key name="custom_css" />
+			<key name="social-link-target" />
+			<key name="facebook-icon" />
+			<key name="flickr-icon" />
+			<key name="googleplus-icon" />
+			<key name="instagram-icon" />
+			<key name="pinterest-icon" />
+			<key name="skype-icon" />
+			<key name="soundcloud-icon" />
+			<key name="tumblr-icon" />
+			<key name="twitter-icon" />
+			<key name="vimeo-icon" />
+			<key name="vine-icon" />
+			<key name="yelp-icon" />
+			<key name="youtube-icon" />
+			<key name="tripadvisor-icon" />
+		</key>
+    </admin-texts>
+
+</wpml-config>

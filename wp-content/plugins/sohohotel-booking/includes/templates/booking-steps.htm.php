@@ -1,0 +1,4 @@
+<div class="step-title <?php if($current_step == '1') { ?>step-title-current<?php } ?>">1<span>. <?php esc_html_e('Select Date', 'sohohotel_booking'); ?></span></div>
+<div class="step-title <?php if($current_step == '2') { ?>step-title-current<?php } ?>">2<span>. <?php esc_html_e('Select Room', 'sohohotel_booking'); ?></span></div>
+<div class="step-title <?php if($current_step == '3') { ?>step-title-current<?php } ?>">3<span>. <?php esc_html_e('Enter Payment Details', 'sohohotel_booking'); ?></span></div>
+<div class="step-title <?php if($current_step == '4') { ?>step-title-current<?php } ?>">4<span>. <?php esc_html_e('Confirmation', 'sohohotel_booking'); ?></span></div>

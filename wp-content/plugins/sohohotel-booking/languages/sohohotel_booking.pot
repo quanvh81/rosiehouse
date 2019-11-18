@@ -1,0 +1,1934 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Soho Hotel Booking\n"
+"POT-Creation-Date: 2018-12-30 18:10+0900\n"
+"PO-Revision-Date: 2018-12-30 18:10+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: sohohotel-booking.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/functions/booking-add.php:29 includes/functions/booking-add.php:36
+#: includes/functions/booking-add.php:191
+#: includes/functions/booking-calendar.php:348
+#: includes/functions/booking-listing.php:452
+#: includes/functions/booking-listing.php:454
+#: includes/functions/booking-listing.php:787
+#: includes/functions/booking-listing.php:805
+msgid "Pending"
+msgstr ""
+
+#: includes/functions/booking-add.php:31 includes/functions/booking-add.php:192
+#: includes/functions/booking-calendar.php:349
+#: includes/functions/booking-listing.php:460
+#: includes/functions/booking-listing.php:462
+#: includes/functions/booking-listing.php:789
+#: includes/functions/booking-listing.php:807
+msgid "Confirmed"
+msgstr ""
+
+#: includes/functions/booking-add.php:33 includes/functions/booking-add.php:193
+#: includes/functions/booking-calendar.php:350
+#: includes/functions/booking-listing.php:468
+#: includes/functions/booking-listing.php:470
+#: includes/functions/booking-listing.php:791
+#: includes/functions/booking-listing.php:809
+msgid "Cancelled"
+msgstr ""
+
+#: includes/functions/booking-add.php:45 includes/post-types/booking.php:30
+#: includes/templates/booking-step3-sidebar.htm.php:169
+msgid "Edit Booking"
+msgstr ""
+
+#: includes/functions/booking-add.php:46
+msgid "Add New"
+msgstr ""
+
+#: includes/functions/booking-add.php:48 includes/post-types/booking.php:28
+msgid "Add New Booking"
+msgstr ""
+
+#: includes/functions/booking-add.php:74 includes/functions/booking-add.php:124
+#: includes/shortcodes/booking-form-5.php:34
+#: includes/shortcodes/booking-form-5.php:94
+#: includes/templates/booking-step3-main.htm.php:112
+msgid "Book Now"
+msgstr ""
+
+#: includes/functions/booking-add.php:91 includes/functions/booking-add.php:185
+msgid "Booking Status"
+msgstr ""
+
+#: includes/functions/booking-add.php:112
+#: includes/functions/booking-listing.php:552
+#: includes/functions/booking-listing.php:559
+#: includes/functions/booking-listing.php:903
+#: includes/functions/booking-listing.php:910
+msgid "Move to Trash"
+msgstr ""
+
+#: includes/functions/booking-add.php:122
+#: includes/functions/booking-updater.php:50
+msgid "Update"
+msgstr ""
+
+#: includes/functions/booking-add.php:162
+msgid "Guest Information"
+msgstr ""
+
+#: includes/functions/booking-add.php:178
+msgid "Booking &amp; Payment Status"
+msgstr ""
+
+#: includes/functions/booking-add.php:209
+#: includes/functions/core-functions.php:1735
+msgid "Payment Method"
+msgstr ""
+
+#: includes/functions/booking-add.php:217
+msgid "The payment method used at the checkout"
+msgstr ""
+
+#: includes/functions/booking-add.php:229
+#: includes/functions/core-functions.php:1736
+#: includes/functions/core-functions.php:1985
+msgid "Amount Paid"
+msgstr ""
+
+#: includes/functions/booking-add.php:237
+msgid "The amount already paid by the guest via online payment"
+msgstr ""
+
+#: includes/functions/booking-add.php:249
+#: includes/functions/core-functions.php:1737
+msgid "Amount Due"
+msgstr ""
+
+#: includes/functions/booking-add.php:264
+msgid "The outstanding amount owed by the guest to be paid upon arrival"
+msgstr ""
+
+#: includes/functions/booking-add.php:278
+msgid "Booking Dates"
+msgstr ""
+
+#: includes/functions/booking-add.php:285
+#: includes/functions/booking-listing.php:639
+#: includes/functions/booking-listing.php:749
+#: includes/functions/booking-listing.php:869
+#: includes/functions/core-functions.php:1674
+#: includes/shortcodes/booking-form-1.php:48
+#: includes/shortcodes/booking-form-1.php:51
+#: includes/shortcodes/booking-form-2.php:48
+#: includes/shortcodes/booking-form-2.php:51
+#: includes/shortcodes/booking-form-3.php:48
+#: includes/shortcodes/booking-form-3.php:51
+#: includes/shortcodes/booking-form-4.php:48
+#: includes/shortcodes/booking-form-4.php:51
+#: includes/shortcodes/booking-form-5.php:26
+#: includes/templates/booking-step1-sidebar.htm.php:70
+#: includes/templates/booking-step2-sidebar.htm.php:14
+#: includes/templates/booking-step3-sidebar.htm.php:16
+#: includes/templates/booking-step4-sidebar.htm.php:16
+#: includes/templates/single-accommodation.htm.php:62
+#: includes/templates/single-accommodation.htm.php:65 sohohotel-booking.php:393
+msgid "Check In"
+msgstr ""
+
+#: includes/functions/booking-add.php:304
+#: includes/functions/booking-listing.php:640
+#: includes/functions/booking-listing.php:759
+#: includes/functions/booking-listing.php:870
+#: includes/functions/core-functions.php:1675
+#: includes/shortcodes/booking-form-1.php:57
+#: includes/shortcodes/booking-form-1.php:60
+#: includes/shortcodes/booking-form-2.php:57
+#: includes/shortcodes/booking-form-2.php:60
+#: includes/shortcodes/booking-form-3.php:57
+#: includes/shortcodes/booking-form-3.php:60
+#: includes/shortcodes/booking-form-4.php:57
+#: includes/shortcodes/booking-form-4.php:60
+#: includes/shortcodes/booking-form-5.php:28
+#: includes/templates/booking-step1-sidebar.htm.php:77
+#: includes/templates/booking-step2-sidebar.htm.php:15
+#: includes/templates/booking-step3-sidebar.htm.php:17
+#: includes/templates/booking-step4-sidebar.htm.php:17
+#: includes/templates/single-accommodation.htm.php:71
+#: includes/templates/single-accommodation.htm.php:74 sohohotel-booking.php:395
+msgid "Check Out"
+msgstr ""
+
+#: includes/functions/booking-add.php:324
+#: includes/templates/booking-step1-sidebar.htm.php:84
+msgid "Rooms"
+msgstr ""
+
+#: includes/functions/booking-add.php:361
+#: includes/functions/booking-add.php:448
+#: includes/functions/booking-listing.php:638
+#: includes/functions/booking-listing.php:723
+#: includes/functions/booking-listing.php:868
+#: includes/functions/core-functions.php:1690
+#: includes/shortcodes/booking-form-3.php:93
+#: includes/shortcodes/booking-form-3.php:135
+#: includes/shortcodes/booking-form-4.php:93
+#: includes/shortcodes/booking-form-4.php:135
+#: includes/templates/admin/blocked_dates_meta.htm.php:7
+#: includes/templates/booking-step1-sidebar.htm.php:102
+#: includes/templates/booking-step2-sidebar.htm.php:36
+#: includes/templates/booking-step2-sidebar.htm.php:41
+#: includes/templates/booking-step2-sidebar.htm.php:57
+#: includes/templates/booking-step2-sidebar.htm.php:62
+#: includes/templates/booking-step2-sidebar.htm.php:82
+#: includes/templates/booking-step2-sidebar.htm.php:85
+#: includes/templates/booking-step3-sidebar.htm.php:32
+#: includes/templates/booking-step3-sidebar.htm.php:35
+#: includes/templates/booking-step4-sidebar.htm.php:32
+#: includes/templates/booking-step4-sidebar.htm.php:35
+msgid "Room"
+msgstr ""
+
+#: includes/functions/booking-add.php:380
+#: includes/functions/booking-add.php:467
+#: includes/templates/admin/blocked_dates_meta.htm.php:29
+msgid "No bookings"
+msgstr ""
+
+#: includes/functions/booking-add.php:391
+#: includes/functions/booking-add.php:478
+#: includes/functions/core-functions.php:1693
+#: includes/shortcodes/booking-form-1.php:66
+#: includes/shortcodes/booking-form-1.php:70
+#: includes/shortcodes/booking-form-2.php:68
+#: includes/shortcodes/booking-form-2.php:72
+#: includes/shortcodes/booking-form-3.php:98
+#: includes/shortcodes/booking-form-3.php:140
+#: includes/shortcodes/booking-form-4.php:98
+#: includes/shortcodes/booking-form-4.php:140
+#: includes/shortcodes/booking-form-5.php:65
+#: includes/shortcodes/booking-form-5.php:69
+#: includes/templates/booking-step1-sidebar.htm.php:108
+#: includes/templates/single-accommodation.htm.php:84
+#: includes/templates/single-accommodation.htm.php:88
+msgid "Adults"
+msgstr ""
+
+#: includes/functions/booking-add.php:404
+#: includes/functions/booking-add.php:491
+#: includes/functions/core-functions.php:1696
+#: includes/shortcodes/booking-form-1.php:79
+#: includes/shortcodes/booking-form-1.php:83
+#: includes/shortcodes/booking-form-2.php:81
+#: includes/shortcodes/booking-form-2.php:85
+#: includes/shortcodes/booking-form-3.php:110
+#: includes/shortcodes/booking-form-3.php:152
+#: includes/shortcodes/booking-form-4.php:110
+#: includes/shortcodes/booking-form-4.php:152
+#: includes/shortcodes/booking-form-5.php:78
+#: includes/shortcodes/booking-form-5.php:82
+#: includes/templates/booking-step1-sidebar.htm.php:128
+#: includes/templates/booking-step2-main.htm.php:175
+#: includes/templates/booking-step2-sidebar.htm.php:42
+#: includes/templates/booking-step2-sidebar.htm.php:63
+#: includes/templates/booking-step2-sidebar.htm.php:86
+#: includes/templates/booking-step3-sidebar.htm.php:37
+#: includes/templates/booking-step4-sidebar.htm.php:37
+#: includes/templates/single-accommodation.htm.php:103
+#: includes/templates/single-accommodation.htm.php:107
+msgid "Children"
+msgstr ""
+
+#: includes/functions/booking-add.php:419
+#: includes/functions/booking-add.php:505
+msgid "Remove Room"
+msgstr ""
+
+#: includes/functions/booking-add.php:439
+msgid "Room XX"
+msgstr ""
+
+#: includes/functions/booking-add.php:515
+#: includes/post-types/accommodation.php:32
+msgid "Add Room"
+msgstr ""
+
+#: includes/functions/booking-add.php:526
+#: includes/functions/core-functions.php:1713
+#: includes/post-types/services.php:24 includes/post-types/services.php:25
+#: includes/post-types/services.php:26
+#: includes/templates/booking-step2-main-services.htm.php:17
+#: includes/templates/booking-step3-sidebar.htm.php:51
+#: includes/templates/booking-step4-sidebar.htm.php:51
+msgid "Services"
+msgstr ""
+
+#: includes/functions/booking-add.php:565
+msgid "There are no services available"
+msgstr ""
+
+#: includes/functions/booking-add.php:580
+msgid "iCal Data"
+msgstr ""
+
+#: includes/functions/booking-add.php:589
+msgid "Feed URL"
+msgstr ""
+
+#: includes/functions/booking-add.php:593
+msgid "If the booking is imported from an iCal feed details will display here"
+msgstr ""
+
+#: includes/functions/booking-calendar.php:6
+msgid "January"
+msgstr ""
+
+#: includes/functions/booking-calendar.php:8
+msgid "February"
+msgstr ""
+
+#: includes/functions/booking-calendar.php:10
+msgid "March"
+msgstr ""
+
+#: includes/functions/booking-calendar.php:12
+msgid "April"
+msgstr ""
+
+#: includes/functions/booking-calendar.php:14
+#: includes/functions/core-functions.php:2447
+msgid "May"
+msgstr ""
+
+#: includes/functions/booking-calendar.php:16
+msgid "June"
+msgstr ""
+
+#: includes/functions/booking-calendar.php:18
+msgid "July"
+msgstr ""
+
+#: includes/functions/booking-calendar.php:20
+msgid "August"
+msgstr ""
+
+#: includes/functions/booking-calendar.php:22
+msgid "September"
+msgstr ""
+
+#: includes/functions/booking-calendar.php:24
+msgid "October"
+msgstr ""
+
+#: includes/functions/booking-calendar.php:26
+msgid "November"
+msgstr ""
+
+#: includes/functions/booking-calendar.php:28
+msgid "December"
+msgstr ""
+
+#: includes/functions/booking-calendar.php:67
+msgid "Booking Calendar"
+msgstr ""
+
+#: includes/functions/booking-calendar.php:68
+#: includes/functions/booking-listing.php:9
+#: includes/functions/booking-listing.php:433
+#: includes/post-types/booking.php:29
+msgid "Add Booking"
+msgstr ""
+
+#: includes/functions/booking-calendar.php:171
+#: includes/functions/core-functions.php:2497
+msgid "Prev"
+msgstr ""
+
+#: includes/functions/booking-calendar.php:171
+#: includes/functions/core-functions.php:2498
+msgid "Current Month"
+msgstr ""
+
+#: includes/functions/booking-calendar.php:171
+#: includes/functions/core-functions.php:2499
+msgid "Next"
+msgstr ""
+
+#: includes/functions/booking-calendar.php:186
+#: includes/functions/booking-listing.php:576
+#: includes/functions/booking-listing.php:597
+msgid "All rooms"
+msgstr ""
+
+#: includes/functions/booking-calendar.php:202
+#: includes/functions/booking-listing.php:587
+#: includes/functions/booking-listing.php:608
+msgid "Filter"
+msgstr ""
+
+#: includes/functions/booking-calendar.php:338
+#: includes/functions/booking-calendar.php:339
+#: includes/functions/booking-listing.php:852
+msgid "No bookings found"
+msgstr ""
+
+#: includes/functions/booking-listing.php:6
+#: includes/functions/booking-listing.php:432
+msgid "Bookings"
+msgstr ""
+
+#: includes/functions/booking-listing.php:7
+msgid "Booking List View"
+msgstr ""
+
+#: includes/functions/booking-listing.php:7
+msgid "List View"
+msgstr ""
+
+#: includes/functions/booking-listing.php:8
+msgid "Booking Calendar View"
+msgstr ""
+
+#: includes/functions/booking-listing.php:8
+msgid "Calendar View"
+msgstr ""
+
+#: includes/functions/booking-listing.php:435
+msgid "Search results for"
+msgstr ""
+
+#: includes/functions/booking-listing.php:444
+#: includes/functions/booking-listing.php:446
+#: includes/shortcodes/booking-form-1.php:29
+#: includes/shortcodes/booking-form-2.php:29
+#: includes/shortcodes/booking-form-3.php:29
+#: includes/shortcodes/booking-form-4.php:29
+#: includes/shortcodes/booking-form-5.php:46
+#: includes/templates/booking-step1-sidebar.htm.php:53
+msgid "All"
+msgstr ""
+
+#: includes/functions/booking-listing.php:476
+#: includes/functions/booking-listing.php:478
+msgid "iCal"
+msgstr ""
+
+#: includes/functions/booking-listing.php:484
+#: includes/functions/booking-listing.php:486
+#: includes/functions/booking-listing.php:779
+#: includes/functions/booking-listing.php:831
+#: includes/functions/booking-listing.php:839
+msgid "Trash"
+msgstr ""
+
+#: includes/functions/booking-listing.php:518
+#: includes/functions/booking-listing.php:527
+msgid "Search Guest"
+msgstr ""
+
+#: includes/functions/booking-listing.php:544
+#: includes/functions/booking-listing.php:551
+#: includes/functions/booking-listing.php:558
+#: includes/functions/booking-listing.php:895
+#: includes/functions/booking-listing.php:902
+#: includes/functions/booking-listing.php:909
+msgid "Bulk Actions"
+msgstr ""
+
+#: includes/functions/booking-listing.php:545
+#: includes/functions/booking-listing.php:824
+#: includes/functions/booking-listing.php:896
+msgid "Restore"
+msgstr ""
+
+#: includes/functions/booking-listing.php:546
+#: includes/functions/booking-listing.php:897
+msgid "Delete Permanently"
+msgstr ""
+
+#: includes/functions/booking-listing.php:564
+#: includes/functions/booking-listing.php:916
+msgid "Apply"
+msgstr ""
+
+#: includes/functions/booking-listing.php:587
+#: includes/functions/booking-listing.php:589
+#: includes/functions/booking-listing.php:608
+#: includes/functions/booking-listing.php:610
+msgid "From (Any Date)"
+msgstr ""
+
+#: includes/functions/booking-listing.php:587
+#: includes/functions/booking-listing.php:591
+#: includes/functions/booking-listing.php:608
+#: includes/functions/booking-listing.php:612
+msgid "To (Any Date)"
+msgstr ""
+
+#: includes/functions/booking-listing.php:636
+#: includes/functions/booking-listing.php:718
+#: includes/functions/booking-listing.php:866
+#: includes/post-types/booking.php:22 includes/post-types/booking.php:23
+#: includes/post-types/booking.php:24
+#: includes/templates/admin/service_meta.htm.php:39
+msgid "Booking"
+msgstr ""
+
+#: includes/functions/booking-listing.php:643
+#: includes/functions/booking-listing.php:769
+#: includes/functions/booking-listing.php:873
+msgid "Received"
+msgstr ""
+
+#: includes/functions/booking-listing.php:646
+#: includes/functions/booking-listing.php:773
+#: includes/functions/booking-listing.php:876
+msgid "Status"
+msgstr ""
+
+#: includes/functions/booking-listing.php:647
+#: includes/functions/booking-listing.php:817
+#: includes/functions/booking-listing.php:877
+msgid "Actions"
+msgstr ""
+
+#: includes/functions/booking-listing.php:691
+#: includes/functions/booking-listing.php:694
+#: includes/functions/booking-listing.php:703
+#: includes/functions/booking-listing.php:706
+#: includes/post-types/booking.php:27
+msgid "View Booking"
+msgstr ""
+
+#: includes/functions/booking-listing.php:720
+msgid "Show more details"
+msgstr ""
+
+#: includes/functions/booking-listing.php:740
+#: includes/functions/booking-listing.php:753
+#: includes/functions/booking-listing.php:763
+#: includes/functions/booking-listing.php:783
+#: includes/functions/booking-listing.php:801
+msgid "Unknown"
+msgstr ""
+
+#: includes/functions/booking-listing.php:742
+#: includes/post-types/accommodation.php:30
+msgid "View Room"
+msgstr ""
+
+#: includes/functions/booking-listing.php:825
+msgid "Delete"
+msgstr ""
+
+#: includes/functions/booking-updater.php:44
+msgid "Bookings database update completed!"
+msgstr ""
+
+#: includes/functions/booking-updater.php:50
+msgid ""
+"You need to update your bookings database, it is recommended you backup your "
+"database before updating."
+msgstr ""
+
+#: includes/functions/core-functions.php:120
+#: includes/templates/admin/service_meta.htm.php:29
+msgid "Flat Fee"
+msgstr ""
+
+#: includes/functions/core-functions.php:122
+#: includes/templates/admin/service_meta.htm.php:30
+msgid "Per Room"
+msgstr ""
+
+#: includes/functions/core-functions.php:124
+#: includes/templates/admin/service_meta.htm.php:31
+msgid "Per Person"
+msgstr ""
+
+#: includes/functions/core-functions.php:126
+#: includes/shortcodes/accommodation-carousel-2.php:97
+#: includes/templates/single-accommodation.htm.php:58
+msgid "Per Night"
+msgstr ""
+
+#: includes/functions/core-functions.php:128
+msgid "Per Booking"
+msgstr ""
+
+#: includes/functions/core-functions.php:364
+msgid "No room found"
+msgstr ""
+
+#: includes/functions/core-functions.php:1550
+msgid "Pay on Arrival"
+msgstr ""
+
+#: includes/functions/core-functions.php:1552
+msgid "PayPal"
+msgstr ""
+
+#: includes/functions/core-functions.php:1554
+#: includes/functions/core-functions.php:2192
+#: includes/templates/booking-step3-main.htm.php:60
+msgid "Credit Card"
+msgstr ""
+
+#: includes/functions/core-functions.php:1603
+msgid "[iCal][Booking Conflict]["
+msgstr ""
+
+#: includes/functions/core-functions.php:1605
+msgid "[iCal]["
+msgstr ""
+
+#: includes/functions/core-functions.php:1612
+msgid " "
+msgstr ""
+
+#: includes/functions/core-functions.php:1671
+#: includes/templates/booking-step2-sidebar.htm.php:11
+#: includes/templates/booking-step3-sidebar.htm.php:13
+#: includes/templates/booking-step4-sidebar.htm.php:13
+msgid "Booking Details"
+msgstr ""
+
+#: includes/functions/core-functions.php:1673
+msgid "Booking ID"
+msgstr ""
+
+#: includes/functions/core-functions.php:1692
+msgid "Room Name"
+msgstr ""
+
+#: includes/functions/core-functions.php:1727
+msgid "Guest Details"
+msgstr ""
+
+#: includes/functions/core-functions.php:1733
+#: includes/functions/core-functions.php:1983
+#: includes/post-types/coupons.php:74
+msgid "Payment Details"
+msgstr ""
+
+#: includes/functions/core-functions.php:1986
+msgid "Payment Date"
+msgstr ""
+
+#: includes/functions/core-functions.php:2127
+msgid "Invoice"
+msgstr ""
+
+#: includes/functions/core-functions.php:2439
+msgid "Jan"
+msgstr ""
+
+#: includes/functions/core-functions.php:2441
+msgid "Feb"
+msgstr ""
+
+#: includes/functions/core-functions.php:2443
+msgid "Mar"
+msgstr ""
+
+#: includes/functions/core-functions.php:2445
+msgid "Apr"
+msgstr ""
+
+#: includes/functions/core-functions.php:2449
+msgid "Jun"
+msgstr ""
+
+#: includes/functions/core-functions.php:2451
+msgid "Jul"
+msgstr ""
+
+#: includes/functions/core-functions.php:2453
+msgid "Aug"
+msgstr ""
+
+#: includes/functions/core-functions.php:2455
+msgid "Sep"
+msgstr ""
+
+#: includes/functions/core-functions.php:2457
+msgid "Oct"
+msgstr ""
+
+#: includes/functions/core-functions.php:2459
+msgid "Nov"
+msgstr ""
+
+#: includes/functions/core-functions.php:2461
+msgid "Dec"
+msgstr ""
+
+#: includes/functions/core-functions.php:2489
+msgid "All Rooms"
+msgstr ""
+
+#: includes/functions/core-functions.php:2520
+#: includes/shortcodes/booking-form-1.php:94
+#: includes/shortcodes/booking-form-2.php:98
+#: includes/shortcodes/booking-form-3.php:187
+#: includes/shortcodes/booking-form-4.php:187
+#: includes/templates/booking-step1-sidebar.htm.php:162
+#: includes/templates/single-accommodation.htm.php:125
+msgid "Check Availability"
+msgstr ""
+
+#: includes/functions/core-functions.php:2575
+msgid "Available"
+msgstr ""
+
+#: includes/functions/core-functions.php:2575
+msgid "Unavailable"
+msgstr ""
+
+#: includes/functions/core-functions.php:2830
+#: includes/functions/core-functions.php:2842
+#: includes/functions/core-functions.php:2851
+#: includes/functions/core-functions.php:2860
+#: includes/functions/core-functions.php:2869
+#: includes/functions/core-functions.php:2878
+#: includes/functions/core-functions.php:2887
+#: includes/functions/core-functions.php:2896
+msgid "Not available"
+msgstr ""
+
+#: includes/functions/core-functions.php:3028
+msgid "iCal sync successful"
+msgstr ""
+
+#: includes/functions/core-functions.php:3032
+msgid "Ical sync failed, room ID does not exist"
+msgstr ""
+
+#: includes/functions/core-functions.php:3256
+#: includes/functions/core-functions.php:3261
+#: includes/functions/core-functions.php:3267
+#: includes/templates/booking-step2-sidebar.htm.php:36
+#: includes/templates/booking-step2-sidebar.htm.php:57
+#: includes/templates/booking-step2-sidebar.htm.php:82
+msgid "of"
+msgstr ""
+
+#: includes/functions/core-functions.php:3278
+msgid "items"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:14
+msgid "Booking Page"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:24
+msgid ""
+"Enter a hotel category slug here to only display rooms for a specific hotel "
+"category (leave blank if you don't have any categories, or you want to "
+"display all)"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:38
+msgid "Booking Form 1"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:52
+msgid "Booking Form 2"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:66
+msgid "Booking Form 3"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:80
+msgid "Booking Form 4"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:94
+msgid "Booking Form 5"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:108
+msgid "Accommodation Listing 1"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:118
+#: includes/pagebuilder/pagebuilder_booking.php:287
+#: includes/pagebuilder/pagebuilder_booking.php:456
+#: includes/pagebuilder/pagebuilder_booking.php:964
+#: includes/pagebuilder/pagebuilder_booking.php:1056
+msgid "Columns"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:132
+#: includes/pagebuilder/pagebuilder_booking.php:301
+#: includes/pagebuilder/pagebuilder_booking.php:470
+#: includes/pagebuilder/pagebuilder_booking.php:644
+#: includes/pagebuilder/pagebuilder_booking.php:788
+msgid "Rooms per page"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:241
+#: includes/pagebuilder/pagebuilder_booking.php:410
+#: includes/pagebuilder/pagebuilder_booking.php:579
+#: includes/pagebuilder/pagebuilder_booking.php:625
+#: includes/pagebuilder/pagebuilder_booking.php:769
+#: includes/pagebuilder/pagebuilder_booking.php:913
+msgid "Order"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:252
+#: includes/pagebuilder/pagebuilder_booking.php:421
+#: includes/pagebuilder/pagebuilder_booking.php:590
+#: includes/pagebuilder/pagebuilder_booking.php:636
+#: includes/pagebuilder/pagebuilder_booking.php:780
+#: includes/pagebuilder/pagebuilder_booking.php:924
+msgid "Accommodation Category Slug (Leave blank to display all)"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:260
+#: includes/pagebuilder/pagebuilder_booking.php:429
+#: includes/pagebuilder/pagebuilder_booking.php:598
+msgid "Hide Pagination"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:277
+msgid "Accommodation Listing 2"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:446
+msgid "Accommodation Listing 3"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:615
+msgid "Accommodation Carousel 1"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:759
+msgid "Accommodation Carousel 2"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:903
+msgid "Accommodation Listing Video"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:932
+msgid "Video Thumbnail"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:940
+msgid "Video URL"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:954
+msgid "Hotel Listing 1"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:976
+#: includes/pagebuilder/pagebuilder_booking.php:1068
+msgid "Hotel Name 1"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:984
+#: includes/pagebuilder/pagebuilder_booking.php:1076
+msgid "Hotel Link 1"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:992
+#: includes/pagebuilder/pagebuilder_booking.php:1092
+msgid "Hotel Name 2"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:1000
+#: includes/pagebuilder/pagebuilder_booking.php:1100
+msgid "Hotel Link 2"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:1008
+#: includes/pagebuilder/pagebuilder_booking.php:1116
+msgid "Hotel Name 3"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:1016
+#: includes/pagebuilder/pagebuilder_booking.php:1124
+msgid "Hotel Link 3"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:1024
+#: includes/pagebuilder/pagebuilder_booking.php:1140
+msgid "Hotel Name 4"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:1032
+#: includes/pagebuilder/pagebuilder_booking.php:1148
+msgid "Hotel Link 4"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:1046
+msgid "Hotel Listing 2"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:1084
+msgid "Hotel Image 1"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:1108
+msgid "Hotel Image 2"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:1132
+msgid "Hotel Image 3"
+msgstr ""
+
+#: includes/pagebuilder/pagebuilder_booking.php:1156
+msgid "Hotel Image 4"
+msgstr ""
+
+#: includes/post-types/accommodation.php:25
+#: includes/post-types/accommodation.php:26
+#: includes/post-types/accommodation.php:27
+msgid "Accommodation"
+msgstr ""
+
+#: includes/post-types/accommodation.php:28
+msgid "Parent Room:"
+msgstr ""
+
+#: includes/post-types/accommodation.php:29
+msgid "All Accommodation"
+msgstr ""
+
+#: includes/post-types/accommodation.php:31
+msgid "Add New Room"
+msgstr ""
+
+#: includes/post-types/accommodation.php:33
+#: includes/templates/booking-step2-sidebar.htm.php:32
+#: includes/templates/booking-step2-sidebar.htm.php:54
+msgid "Edit Room"
+msgstr ""
+
+#: includes/post-types/accommodation.php:34
+msgid "Update Room"
+msgstr ""
+
+#: includes/post-types/accommodation.php:35
+msgid "Search Room"
+msgstr ""
+
+#: includes/post-types/accommodation.php:36
+#: includes/post-types/blocked_dates.php:35 includes/post-types/booking.php:33
+#: includes/post-types/coupons.php:35 includes/post-types/services.php:35
+msgid "Not found"
+msgstr ""
+
+#: includes/post-types/accommodation.php:37
+#: includes/post-types/blocked_dates.php:36 includes/post-types/booking.php:34
+#: includes/post-types/coupons.php:36 includes/post-types/services.php:36
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/post-types/accommodation.php:41
+#: includes/post-types/accommodation.php:58
+msgid "accommodation"
+msgstr ""
+
+#: includes/post-types/accommodation.php:73
+#: includes/shortcodes/booking-form-1.php:25
+#: includes/shortcodes/booking-form-2.php:25
+#: includes/shortcodes/booking-form-3.php:25
+#: includes/shortcodes/booking-form-4.php:25
+#: includes/shortcodes/booking-form-5.php:42
+#: includes/templates/booking-step1-sidebar.htm.php:49
+msgid "Hotel"
+msgstr ""
+
+#: includes/post-types/blocked_dates.php:24
+#: includes/post-types/blocked_dates.php:25
+#: includes/post-types/blocked_dates.php:26
+#: includes/post-types/blocked_dates.php:40
+msgid "Blocked Dates"
+msgstr ""
+
+#: includes/post-types/blocked_dates.php:27
+msgid "Parent Blocked Dates:"
+msgstr ""
+
+#: includes/post-types/blocked_dates.php:28
+msgid "All Blocked Dates"
+msgstr ""
+
+#: includes/post-types/blocked_dates.php:29
+msgid "View Blocked Dates"
+msgstr ""
+
+#: includes/post-types/blocked_dates.php:30
+msgid "Add New Blocked Dates"
+msgstr ""
+
+#: includes/post-types/blocked_dates.php:31
+msgid "Add Blocked Dates"
+msgstr ""
+
+#: includes/post-types/blocked_dates.php:32
+msgid "Edit Blocked Dates"
+msgstr ""
+
+#: includes/post-types/blocked_dates.php:33
+msgid "Update Blocked Dates"
+msgstr ""
+
+#: includes/post-types/blocked_dates.php:34
+msgid "Search Blocked Dates"
+msgstr ""
+
+#: includes/post-types/blocked_dates.php:74
+msgid "Blocked Date Details"
+msgstr ""
+
+#: includes/post-types/booking.php:25
+msgid "Parent Booking:"
+msgstr ""
+
+#: includes/post-types/booking.php:26
+msgid "All Bookings"
+msgstr ""
+
+#: includes/post-types/booking.php:31
+msgid "Update Booking"
+msgstr ""
+
+#: includes/post-types/booking.php:32
+msgid "Search Booking"
+msgstr ""
+
+#: includes/post-types/booking.php:38
+msgid "booking"
+msgstr ""
+
+#: includes/post-types/coupons.php:24 includes/post-types/coupons.php:26
+msgid "Coupons"
+msgstr ""
+
+#: includes/post-types/coupons.php:25 includes/post-types/coupons.php:40
+msgid "Coupon"
+msgstr ""
+
+#: includes/post-types/coupons.php:27
+msgid "Parent Coupon:"
+msgstr ""
+
+#: includes/post-types/coupons.php:28
+msgid "All Coupons"
+msgstr ""
+
+#: includes/post-types/coupons.php:29
+msgid "View Coupon"
+msgstr ""
+
+#: includes/post-types/coupons.php:30
+msgid "Add New Coupon"
+msgstr ""
+
+#: includes/post-types/coupons.php:31
+msgid "Add Coupon"
+msgstr ""
+
+#: includes/post-types/coupons.php:32
+msgid "Edit Coupon"
+msgstr ""
+
+#: includes/post-types/coupons.php:33
+msgid "Update Coupon"
+msgstr ""
+
+#: includes/post-types/coupons.php:34
+msgid "Search Coupon"
+msgstr ""
+
+#: includes/post-types/ical.php:22
+msgid "ical"
+msgstr ""
+
+#: includes/post-types/ical.php:38
+msgid "ical.ics"
+msgstr ""
+
+#: includes/post-types/services.php:27
+msgid "Parent Service:"
+msgstr ""
+
+#: includes/post-types/services.php:28
+msgid "All Services"
+msgstr ""
+
+#: includes/post-types/services.php:29
+msgid "View Services"
+msgstr ""
+
+#: includes/post-types/services.php:30
+msgid "Add New Service"
+msgstr ""
+
+#: includes/post-types/services.php:31
+msgid "Add Service"
+msgstr ""
+
+#: includes/post-types/services.php:32
+msgid "Edit Service"
+msgstr ""
+
+#: includes/post-types/services.php:33
+msgid "Update Service"
+msgstr ""
+
+#: includes/post-types/services.php:34
+msgid "Search Service"
+msgstr ""
+
+#: includes/post-types/services.php:40
+msgid "service"
+msgstr ""
+
+#: includes/shortcodes/accommodation-carousel-1.php:104
+#: includes/shortcodes/accommodation-listing-1.php:144
+msgid "from"
+msgstr ""
+
+#: includes/shortcodes/accommodation-carousel-1.php:104
+#: includes/shortcodes/accommodation-listing-1.php:144
+msgid "per night"
+msgstr ""
+
+#: includes/shortcodes/accommodation-carousel-1.php:105
+#: includes/shortcodes/accommodation-listing-1.php:145
+msgid "View Details"
+msgstr ""
+
+#: includes/shortcodes/accommodation-carousel-1.php:119
+#: includes/shortcodes/accommodation-carousel-2.php:118
+#: includes/shortcodes/accommodation-listing-1.php:159
+#: includes/shortcodes/accommodation-listing-2.php:145
+#: includes/shortcodes/accommodation-listing-3.php:144
+#: includes/shortcodes/accommodation-listing-video.php:111
+msgid "No rooms have been added yet"
+msgstr ""
+
+#: includes/shortcodes/accommodation-carousel-2.php:97
+#: includes/shortcodes/accommodation-listing-2.php:131
+#: includes/shortcodes/accommodation-listing-3.php:130
+#: includes/shortcodes/accommodation-listing-video.php:90
+#: includes/templates/admin/blocked_dates_meta.htm.php:51
+msgid "From"
+msgstr ""
+
+#: includes/shortcodes/accommodation-listing-1.php:181
+#: includes/shortcodes/accommodation-listing-1.php:205
+#: includes/shortcodes/accommodation-listing-2.php:167
+#: includes/shortcodes/accommodation-listing-2.php:191
+#: includes/shortcodes/accommodation-listing-3.php:167
+#: includes/shortcodes/accommodation-listing-3.php:191
+#: includes/templates/pagination.htm.php:18
+#: includes/templates/pagination.htm.php:42
+msgid "&larr; Older posts"
+msgstr ""
+
+#: includes/shortcodes/accommodation-listing-1.php:182
+#: includes/shortcodes/accommodation-listing-1.php:206
+#: includes/shortcodes/accommodation-listing-2.php:168
+#: includes/shortcodes/accommodation-listing-2.php:192
+#: includes/shortcodes/accommodation-listing-3.php:168
+#: includes/shortcodes/accommodation-listing-3.php:192
+#: includes/templates/pagination.htm.php:19
+#: includes/templates/pagination.htm.php:43
+msgid "Newer posts &rarr;"
+msgstr ""
+
+#: includes/shortcodes/booking-form-3.php:66
+#: includes/shortcodes/booking-form-4.php:66
+msgid "Rooms & Guests"
+msgstr ""
+
+#: includes/shortcodes/booking-form-3.php:71
+#: includes/shortcodes/booking-form-4.php:71
+msgid "Room(s)"
+msgstr ""
+
+#: includes/shortcodes/booking-form-3.php:77
+#: includes/shortcodes/booking-form-4.php:77
+msgid "Guest(s)"
+msgstr ""
+
+#: includes/shortcodes/booking-form-3.php:93
+#: includes/shortcodes/booking-form-3.php:135
+#: includes/shortcodes/booking-form-4.php:93
+#: includes/shortcodes/booking-form-4.php:135
+msgid "Remove"
+msgstr ""
+
+#: includes/shortcodes/booking-form-3.php:174
+#: includes/shortcodes/booking-form-4.php:174
+msgid "+ Add another room"
+msgstr ""
+
+#: includes/shortcodes/booking-form-3.php:175
+#: includes/shortcodes/booking-form-4.php:175
+msgid "Bookings are limited to "
+msgstr ""
+
+#: includes/shortcodes/booking-form-3.php:175
+#: includes/shortcodes/booking-form-4.php:175
+msgid "rooms"
+msgstr ""
+
+#: includes/shortcodes/booking-form-3.php:176
+#: includes/shortcodes/booking-form-4.php:176
+msgid "Done"
+msgstr ""
+
+#: includes/shortcodes/booking-form-5.php:90
+msgid "Change Dates"
+msgstr ""
+
+#: includes/templates/admin/accommodation_excerpt_meta.htm.php:2
+msgid "Content added here is displayed on the accommodation listing page"
+msgstr ""
+
+#: includes/templates/admin/accommodation_ical_meta.htm.php:3
+msgid ""
+"You can sync booking data for this room with iCal. Add the full iCal feed "
+"URL below e.g. http://website.com/feed.ics To add multiple feeds add a comma "
+"between each feed URL e.g. http://website.com/feed.ics,http://website.com/"
+"feed.ics"
+msgstr ""
+
+#: includes/templates/admin/accommodation_ical_meta.htm.php:5
+msgid "The iCal URL for this room is:"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:20
+#: includes/templates/admin/accommodation_meta.htm.php:34
+#: includes/templates/admin/price_rule.htm.php:8
+#: includes/templates/admin/price_rule.htm.php:22
+#: includes/templates/admin/seasonal_price_filter.htm.php:8
+#: includes/templates/admin/seasonal_price_filter.htm.php:22
+msgid "Weekdays (Sun - Thu)"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:21
+#: includes/templates/admin/accommodation_meta.htm.php:35
+#: includes/templates/admin/price_rule.htm.php:9
+#: includes/templates/admin/price_rule.htm.php:23
+#: includes/templates/admin/seasonal_price_filter.htm.php:9
+#: includes/templates/admin/seasonal_price_filter.htm.php:23
+msgid "Weekends (Fri - Sat)"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:23
+#: includes/templates/admin/price_rule.htm.php:11
+#: includes/templates/admin/seasonal_price_filter.htm.php:11
+msgid "Weekdays (Mon - Fri)"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:24
+#: includes/templates/admin/price_rule.htm.php:12
+#: includes/templates/admin/seasonal_price_filter.htm.php:12
+msgid "Weekends (Sat - Sun)"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:26
+#: includes/templates/admin/price_rule.htm.php:14
+#: includes/templates/admin/seasonal_price_filter.htm.php:14
+msgid "Weekdays (Sun - Wed)"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:27
+#: includes/templates/admin/price_rule.htm.php:15
+#: includes/templates/admin/seasonal_price_filter.htm.php:15
+msgid "Weekends (Thu - Sat)"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:29
+#: includes/templates/admin/price_rule.htm.php:17
+#: includes/templates/admin/seasonal_price_filter.htm.php:17
+msgid "Weekdays (Mon - Thu)"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:30
+#: includes/templates/admin/price_rule.htm.php:18
+#: includes/templates/admin/seasonal_price_filter.htm.php:18
+msgid "Weekends (Fri - Sun)"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:44
+msgid "Pricing Per Night"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:45
+msgid "Pricing Per Week"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:46
+msgid "Pricing Per Month"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:52
+msgid ""
+"You are inside the \"Pricing Per Night\" tab, all prices added here will be "
+"applied when a guest books for less than"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:52
+msgid "nights"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:58
+#: includes/templates/admin/accommodation_meta.htm.php:139
+#: includes/templates/admin/accommodation_meta.htm.php:220
+msgid "General Pricing"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:59
+#: includes/templates/admin/accommodation_meta.htm.php:140
+#: includes/templates/admin/accommodation_meta.htm.php:221
+msgid "Seasonal Pricing"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:75
+#: includes/templates/admin/accommodation_meta.htm.php:156
+#: includes/templates/admin/accommodation_meta.htm.php:237
+#: includes/templates/admin/accommodation_meta.htm.php:315
+#: includes/templates/admin/accommodation_meta.htm.php:363
+#: includes/templates/admin/price_rule.htm.php:42
+#: includes/templates/admin/seasonal_price_filter.htm.php:54
+msgid "Per Adult"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:81
+#: includes/templates/admin/accommodation_meta.htm.php:162
+#: includes/templates/admin/accommodation_meta.htm.php:243
+#: includes/templates/admin/accommodation_meta.htm.php:321
+#: includes/templates/admin/accommodation_meta.htm.php:369
+#: includes/templates/admin/price_rule.htm.php:51
+#: includes/templates/admin/seasonal_price_filter.htm.php:60
+msgid "Per Child"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:133
+msgid ""
+"You are inside the \"Pricing Per Week\" tab, all prices added here will be "
+"applied when a guest books for"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:133
+#: includes/templates/admin/accommodation_meta.htm.php:214
+msgid "nights or more"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:214
+msgid ""
+"You are inside the \"Pricing Per Month\" tab, all prices added here will be "
+"applied when a guest books for"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:305
+#: includes/templates/admin/price_rule.htm.php:32
+msgid "Price rule #"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:305
+#: includes/templates/admin/accommodation_meta.htm.php:341
+msgid "1"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:326
+#: includes/templates/admin/price_rule.htm.php:61
+msgid "Remove price filter"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:341
+#: includes/templates/admin/seasonal_price_filter.htm.php:32
+msgid "Seasonal Filter #"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:346
+#: includes/templates/admin/seasonal_price_filter.htm.php:37
+msgid "Date From"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:347
+#: includes/templates/admin/seasonal_price_filter.htm.php:38
+msgid "Date To"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:351
+#: includes/templates/admin/seasonal_price_filter.htm.php:42
+msgid "Date Range"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:375
+#: includes/templates/admin/seasonal_price_filter.htm.php:65
+msgid "Add Price Rule"
+msgstr ""
+
+#: includes/templates/admin/accommodation_meta.htm.php:376
+#: includes/templates/admin/seasonal_price_filter.htm.php:66
+msgid "Remove seasonal price filter"
+msgstr ""
+
+#: includes/templates/admin/accommodation_room_meta.htm.php:5
+msgid "Number of rooms of this type available"
+msgstr ""
+
+#: includes/templates/admin/accommodation_room_meta.htm.php:33
+msgid "Maximum Occupancy"
+msgstr ""
+
+#: includes/templates/admin/accommodation_room_meta.htm.php:49
+msgid "The maximum number of guests this room can accommodate"
+msgstr ""
+
+#: includes/templates/admin/blocked_dates_meta.htm.php:46
+msgid "Dates"
+msgstr ""
+
+#: includes/templates/admin/blocked_dates_meta.htm.php:57
+msgid "To"
+msgstr ""
+
+#: includes/templates/admin/blocked_dates_meta.htm.php:75
+msgid "Days of the week to be blocked within the above specified date range"
+msgstr ""
+
+#: includes/templates/admin/blocked_dates_meta.htm.php:80
+msgid "Check All"
+msgstr ""
+
+#: includes/templates/admin/blocked_dates_meta.htm.php:87
+msgid "Mon"
+msgstr ""
+
+#: includes/templates/admin/blocked_dates_meta.htm.php:92
+msgid "Tue"
+msgstr ""
+
+#: includes/templates/admin/blocked_dates_meta.htm.php:97
+msgid "Wed"
+msgstr ""
+
+#: includes/templates/admin/blocked_dates_meta.htm.php:102
+msgid "Thu"
+msgstr ""
+
+#: includes/templates/admin/blocked_dates_meta.htm.php:107
+msgid "Fri"
+msgstr ""
+
+#: includes/templates/admin/blocked_dates_meta.htm.php:112
+msgid "Sat"
+msgstr ""
+
+#: includes/templates/admin/blocked_dates_meta.htm.php:117
+msgid "Sun"
+msgstr ""
+
+#: includes/templates/admin/coupon_meta.htm.php:7
+msgid "Coupon Code"
+msgstr ""
+
+#: includes/templates/admin/coupon_meta.htm.php:23
+msgid "Discount Type"
+msgstr ""
+
+#: includes/templates/admin/coupon_meta.htm.php:28
+msgid "Flat discount"
+msgstr ""
+
+#: includes/templates/admin/coupon_meta.htm.php:32
+msgid "Percentage"
+msgstr ""
+
+#: includes/templates/admin/coupon_meta.htm.php:48
+#: includes/templates/admin/coupon_meta.htm.php:62
+msgid "Discount Amount"
+msgstr ""
+
+#: includes/templates/admin/service_meta.htm.php:7
+#: includes/templates/booking-step2-main.htm.php:122
+#: includes/templates/booking-step3-sidebar.htm.php:39
+#: includes/templates/booking-step4-sidebar.htm.php:39
+msgid "Price"
+msgstr ""
+
+#: includes/templates/admin/service_meta.htm.php:23
+msgid "Price Type"
+msgstr ""
+
+#: includes/templates/admin/service_meta.htm.php:27
+msgid "Charge"
+msgstr ""
+
+#: includes/templates/admin/service_meta.htm.php:36
+msgid "Per"
+msgstr ""
+
+#: includes/templates/admin/service_meta.htm.php:38 sohohotel-booking.php:399
+msgid "Night"
+msgstr ""
+
+#: includes/templates/admin/service_meta.htm.php:52
+msgid "Optional or Mandatory"
+msgstr ""
+
+#: includes/templates/admin/service_meta.htm.php:57
+msgid "Optional"
+msgstr ""
+
+#: includes/templates/admin/service_meta.htm.php:58
+msgid "Mandatory"
+msgstr ""
+
+#: includes/templates/admin/service_meta.htm.php:63
+msgid ""
+"If you select \"Mandatory\" the service/charge will be automatically added "
+"for all bookings"
+msgstr ""
+
+#: includes/templates/booking-step1-sidebar.htm.php:42
+msgid "Your Reservation"
+msgstr ""
+
+#: includes/templates/booking-step1.htm.php:15
+msgid ""
+"Your payment has been processed successfully, please check your email for "
+"details."
+msgstr ""
+
+#: includes/templates/booking-step1.htm.php:17
+msgid ""
+"Your payment failed, you may have entered incorrect bank card details, or "
+"there may be a problem with your bank card in which case we recommend you "
+"contact your bank."
+msgstr ""
+
+#: includes/templates/booking-step1.htm.php:38
+msgid ""
+"Your PayPal payment has been processed successfully, please check your email "
+"for details."
+msgstr ""
+
+#: includes/templates/booking-step1.htm.php:57
+msgid "Your PayPal payment has been cancelled."
+msgstr ""
+
+#: includes/templates/booking-step1.htm.php:103
+msgid "Card Holder Name"
+msgstr ""
+
+#: includes/templates/booking-step1.htm.php:106
+msgid "Card Number"
+msgstr ""
+
+#: includes/templates/booking-step1.htm.php:112
+msgid "Expiration (MM)"
+msgstr ""
+
+#: includes/templates/booking-step1.htm.php:117
+msgid "Expiration (YY)"
+msgstr ""
+
+#: includes/templates/booking-step1.htm.php:123
+msgid "CVC"
+msgstr ""
+
+#: includes/templates/booking-step1.htm.php:140
+msgid "Confirm & Pay"
+msgstr ""
+
+#: includes/templates/booking-step2-main-services.htm.php:57
+msgid "Continue To Payment"
+msgstr ""
+
+#: includes/templates/booking-step2-main.htm.php:76
+msgid "Hurry up, there are only"
+msgstr ""
+
+#: includes/templates/booking-step2-main.htm.php:76
+msgid "rooms of this type remaining!"
+msgstr ""
+
+#: includes/templates/booking-step2-main.htm.php:83
+msgid "This room is available but has a maximum occupancy of"
+msgstr ""
+
+#: includes/templates/booking-step2-main.htm.php:83
+msgid "guest(s)"
+msgstr ""
+
+#: includes/templates/booking-step2-main.htm.php:123
+msgid "View Price Breakdown"
+msgstr ""
+
+#: includes/templates/booking-step2-main.htm.php:130
+msgid "Price Breakdown"
+msgstr ""
+
+#: includes/templates/booking-step2-main.htm.php:148
+msgid "Total"
+msgstr ""
+
+#: includes/templates/booking-step2-main.htm.php:171
+msgid "Adult"
+msgstr ""
+
+#: includes/templates/booking-step2-main.htm.php:210
+#: includes/templates/booking-steps.htm.php:2
+msgid "Select Room"
+msgstr ""
+
+#: includes/templates/booking-step2-main.htm.php:221
+msgid "No rooms are available"
+msgstr ""
+
+#: includes/templates/booking-step2-sidebar.htm.php:42
+#: includes/templates/booking-step2-sidebar.htm.php:63
+#: includes/templates/booking-step2-sidebar.htm.php:86
+#: includes/templates/booking-step3-sidebar.htm.php:36
+#: includes/templates/booking-step4-sidebar.htm.php:36
+msgid "Guests"
+msgstr ""
+
+#: includes/templates/booking-step2-sidebar.htm.php:42
+#: includes/templates/booking-step2-sidebar.htm.php:63
+#: includes/templates/booking-step2-sidebar.htm.php:86
+#: includes/templates/booking-step3-sidebar.htm.php:36
+#: includes/templates/booking-step4-sidebar.htm.php:36
+msgid "Adult(s)"
+msgstr ""
+
+#: includes/templates/booking-step2-sidebar.htm.php:93
+msgid "Edit Room & Guest Quantity"
+msgstr ""
+
+#: includes/templates/booking-step3-main.htm.php:10
+#: includes/templates/booking-step3-main.htm.php:37
+msgid "Apply Coupon"
+msgstr ""
+
+#: includes/templates/booking-step3-main.htm.php:20
+msgid "Sorry the coupon code you entered is not valid"
+msgstr ""
+
+#: includes/templates/booking-step3-main.htm.php:22
+msgid "You applied the coupon code"
+msgstr ""
+
+#: includes/templates/booking-step3-main.htm.php:50
+msgid "Payment"
+msgstr ""
+
+#: includes/templates/booking-step3-main.htm.php:61
+msgid "Pay via Credit Card. All major credit and debit cards accepted"
+msgstr ""
+
+#: includes/templates/booking-step3-main.htm.php:67
+msgid "Paypal"
+msgstr ""
+
+#: includes/templates/booking-step3-main.htm.php:68
+msgid "Pay via Paypal. Accepts all major credit and debit cards"
+msgstr ""
+
+#: includes/templates/booking-step3-main.htm.php:74
+msgid "Pay On Arrival"
+msgstr ""
+
+#: includes/templates/booking-step3-main.htm.php:75
+msgid "Pay on arrival. Pay by credit card or cash when you arrive."
+msgstr ""
+
+#: includes/templates/booking-step3-main.htm.php:85
+msgid "I have read and accept the"
+msgstr ""
+
+#: includes/templates/booking-step3-main.htm.php:85
+msgid "terms &amp; conditions"
+msgstr ""
+
+#: includes/templates/booking-step3-main.htm.php:94
+msgid "Terms &amp; Conditions"
+msgstr ""
+
+#: includes/templates/booking-step3-main.htm.php:114
+msgid "Proceed To Payment"
+msgstr ""
+
+#: includes/templates/booking-step3-sidebar.htm.php:122
+#: includes/templates/booking-step3-sidebar.htm.php:128
+#: includes/templates/booking-step4-sidebar.htm.php:72
+#: includes/templates/booking-step4-sidebar.htm.php:78
+msgid "Deposit Due Now"
+msgstr ""
+
+#: includes/templates/booking-step3-sidebar.htm.php:134
+#: includes/templates/booking-step4-sidebar.htm.php:84
+msgid "Total Price"
+msgstr ""
+
+#: includes/templates/booking-step3-sidebar.htm.php:138
+#: includes/templates/booking-step4-sidebar.htm.php:88
+msgid "Includes"
+msgstr ""
+
+#: includes/templates/booking-step3-sidebar.htm.php:138
+#: includes/templates/booking-step4-sidebar.htm.php:88
+msgid "tax"
+msgstr ""
+
+#: includes/templates/booking-step4-main.htm.php:36
+msgid "PayPal is loading, please wait..."
+msgstr ""
+
+#: includes/templates/booking-step4-main.htm.php:56
+msgid "Payment is loading, please wait..."
+msgstr ""
+
+#: includes/templates/booking-step4-main.htm.php:62
+msgid "Reservation Complete"
+msgstr ""
+
+#: includes/templates/booking-step4-main.htm.php:68
+msgid "Contact Details"
+msgstr ""
+
+#: includes/templates/booking-step4-main.htm.php:89
+msgid "Social Media"
+msgstr ""
+
+#: includes/templates/booking-steps.htm.php:1
+msgid "Select Date"
+msgstr ""
+
+#: includes/templates/booking-steps.htm.php:3
+msgid "Enter Payment Details"
+msgstr ""
+
+#: includes/templates/booking-steps.htm.php:4
+msgid "Confirmation"
+msgstr ""
+
+#: includes/templates/single-accommodation.htm.php:56
+msgid "Room From"
+msgstr ""
+
+#: includes/templates/taxonomy-accommodation-categories.htm.php:8
+msgid "Hotel Category Page"
+msgstr ""
+
+#: includes/templates/taxonomy-accommodation-categories.htm.php:21
+msgid ""
+"To create a hotel / category page, please go to \"Pages > Add New\", select "
+"the \"Accommodation\" element in Visual Composer, and enter your hotel / "
+"category slug in the \"Hotel / Category\" field."
+msgstr ""
+
+#: sohohotel-booking.php:387
+msgid "The minimum booking period is"
+msgstr ""
+
+#: sohohotel-booking.php:387
+msgid "night(s)"
+msgstr ""
+
+#: sohohotel-booking.php:388
+msgid "Please select a check in and check out date"
+msgstr ""
+
+#: sohohotel-booking.php:389
+msgid "You must accept the terms & conditions before placing your booking"
+msgstr ""
+
+#: sohohotel-booking.php:390
+msgid "Please fill out all the required fields marked with a *"
+msgstr ""
+
+#: sohohotel-booking.php:391
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: sohohotel-booking.php:392
+msgid "Phone number should only contain numbers"
+msgstr ""
+
+#: sohohotel-booking.php:398
+msgid "Your stay:"
+msgstr ""
+
+#: sohohotel-booking.php:400
+msgid "Nights"
+msgstr ""
+
+#: sohohotel-booking.php:401
+msgid "Close"
+msgstr ""
+
+#: sohohotel-booking.php:402
+msgid "Check-in disabled"
+msgstr ""
+
+#: sohohotel-booking.php:403
+msgid "Check-out disabled"
+msgstr ""
+
+#: sohohotel-booking.php:404
+msgid "Date range should not be more than 1 night"
+msgstr ""
+
+#: sohohotel-booking.php:405
+#, php-format
+msgid "Date range should not be more than %d nights"
+msgstr ""
+
+#: sohohotel-booking.php:406
+msgid "Date range should not be less than 1 night"
+msgstr ""
+
+#: sohohotel-booking.php:407
+#, php-format
+msgid "Date range should not be less than %d nights"
+msgstr ""
+
+#: sohohotel-booking.php:408
+msgid "Please select a date range of at least 1 night"
+msgstr ""
+
+#: sohohotel-booking.php:409
+#, php-format
+msgid "Please select a date range of at least %d nights"
+msgstr ""
+
+#: sohohotel-booking.php:410
+#, php-format
+msgid "Please select a date range between %d and %d nights"
+msgstr ""
+
+#: sohohotel-booking.php:411
+msgid "Please select a date range"
+msgstr ""
+
+#: sohohotel-booking.php:413
+msgid "The card number is incorrect"
+msgstr ""
+
+#: sohohotel-booking.php:414
+msgid "The card number is not a valid credit card number"
+msgstr ""
+
+#: sohohotel-booking.php:415
+msgid "The card's expiration month is invalid"
+msgstr ""
+
+#: sohohotel-booking.php:416
+msgid "The card's expiration year is invalid"
+msgstr ""
+
+#: sohohotel-booking.php:417
+msgid "The card's security code is invalid"
+msgstr ""
+
+#: sohohotel-booking.php:418
+msgid "The card has expired"
+msgstr ""
+
+#: sohohotel-booking.php:419
+msgid "The card's security code is incorrect"
+msgstr ""
+
+#: sohohotel-booking.php:420
+msgid "The card's zip code failed validation"
+msgstr ""
+
+#: sohohotel-booking.php:421
+msgid "The card was declined"
+msgstr ""
+
+#: sohohotel-booking.php:422
+msgid "There is no card on a customer that is being charged"
+msgstr ""
+
+#: sohohotel-booking.php:423
+msgid "An error occurred while processing the card"
+msgstr ""
+
+#: sohohotel-booking.php:424
+msgid ""
+"An error occurred due to requests hitting the API too quickly. Please let us "
+"know if you're consistently running into this error"
+msgstr ""
+
+#: sohohotel-booking.php:425
+msgid "Missing payment information"
+msgstr ""
+
+#: sohohotel-booking.php:500
+msgid "Please fill out all the fields"
+msgstr ""
+
+#: sohohotel-booking.php:501
+msgid ""
+"Please select at least 1 day of the week to be blocked in the specified date "
+"range"
+msgstr ""
+
+#: sohohotel-booking.php:502
+msgid "Please select a discount type"
+msgstr ""
+
+#: sohohotel-booking.php:503
+msgid "Please only enter numbers for the discount amount field"
+msgstr ""
+
+#: sohohotel-booking.php:504
+msgid "Please only enter numbers in the price fields"
+msgstr ""
+
+#: sohohotel-booking.php:505
+msgid "Please select check in and check out dates"
+msgstr ""
+
+#: sohohotel-booking.php:506
+msgid "Please select at least 1 room"
+msgstr ""
+
+#: sohohotel-booking.php:509
+msgid "The from date must be before the to date"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Soho Hotel Booking"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://quitenicestuff.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Accommodation Booking System"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Quite Nice Stuff"
+msgstr ""

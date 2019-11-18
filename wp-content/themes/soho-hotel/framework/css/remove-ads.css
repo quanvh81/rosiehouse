@@ -1,0 +1,62 @@
+.redux-notice,
+#redux-header .rAds .mgv1_1,
+#redux-header .rAds .mgv1_1 img {
+	display: none !important;
+}
+
+.rs-update-notice-wrap {
+	display: none !important;
+}
+
+tr[data-slug="slider-revolution"] + .plugin-update-tr,
+tr[data-slug="slider-revolution"] + .plugin-update-tr + .plugin-update-tr,
+tr[data-slug="revolution-slider"] + .plugin-update-tr,
+tr[data-slug="revolution-slider"] + .plugin-update-tr + .plugin-update-tr,
+#js_composer-update {
+    display: none !important;
+}
+
+.rs-dashboard #activation_dw,
+.rs-dashboard #templates_dw,
+.rs-dashboard #support_dw,
+.rs-dashboard #newsletter_dw,
+.rs-dashboard #system_dw,
+.rs-dashboard #updates_dw {
+	display: none !important;
+}
+
+.rs-update-history-wrapper {
+	display: none !important;
+}
+
+.column-description span a[href="./plugins.php?ReduxFrameworkPlugin=demo"] {
+	display: none !important;
+}
+
+#wpbody-content .wrap #wie-project {
+	display: none !important;
+}
+
+#vc_license-activation-notice,
+.bsf-update-nag,
+.tp-plugin-version {
+	display: none !important;
+}
+
+tr[data-plugin="newsletter/plugin.php"] .column-description p strong,
+#tnp-wrap .tnp-professional-extensions-button,
+#tnp-dash-premium {
+	display: none !important;
+}
+
+a[href="admin.php?page=newsletter_main_extensions"] {
+	display: none !important;
+}
+
+.wpb_switch-to-gutenberg {
+	display: none !important;
+}
+
+a[href="./plugins.php?ReduxFrameworkPlugin=demo"] {
+	display: none !important;
+}

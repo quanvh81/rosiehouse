@@ -1,0 +1,2 @@
+<textarea rows="10" cols="40" name="_accommodation_room_excerpt_meta"><?php echo $accommodation_meta_room_excerpt; ?></textarea>
+<p class="description"><?php esc_html_e('Content added here is displayed on the accommodation listing page','sohohotel_booking'); ?></p>
