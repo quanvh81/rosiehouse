@@ -960,6 +960,8 @@ function sohohotel_enqueue_css() {
     wp_enqueue_style( 'sohohotel-style', get_stylesheet_uri() );
 	wp_add_inline_style( 'sohohotel-style', sohohotel_inline_css() );
 	wp_enqueue_style('sohohotel-fontawesome', get_template_directory_uri() .'/framework/css/font-awesome/css/font-awesome.min.css');
+    wp_enqueue_style('sohohotel-fontawesome-brands', get_template_directory_uri() .'/framework/css/font-awesome/css/brands.min.css');
+    wp_enqueue_style('sohohotel-fontawesome-solid', get_template_directory_uri() .'/framework/css/font-awesome/css/solid.min.css');
 	wp_enqueue_style('sohohotel-owlcarousel', get_template_directory_uri() .'/framework/css/owl.carousel.css');
 	wp_enqueue_style('sohohotel-prettyPhoto', get_template_directory_uri() .'/framework/css/prettyPhoto.css');
 }
