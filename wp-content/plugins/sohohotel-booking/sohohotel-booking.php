@@ -443,6 +443,8 @@ function admin_js_css() {
 	// Admin CSS
 	wp_enqueue_style('sohohotel_booking_css', sohohotel_booking_PLUGIN_URL . 'assets/css/admin/style.css');
 	wp_enqueue_style('sohohotel_booking_fontawesome', sohohotel_booking_PLUGIN_URL .'assets/css/admin/font-awesome/css/font-awesome.min.css');
+    wp_enqueue_style('sohohotel_booking_fontawesome-brands', sohohotel_booking_PLUGIN_URL .'assets/css/admin/font-awesome/css/brands.min.css');
+    wp_enqueue_style('sohohotel_booking_fontawesome-solid', sohohotel_booking_PLUGIN_URL .'assets/css/admin/font-awesome/css/solid.min.css');
 	
 	// Admin JS
 	wp_enqueue_script( 'jquery-ui-datepicker' );
