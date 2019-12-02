@@ -809,7 +809,8 @@ class Vc_Frontend_Editor {
 		wp_register_style( 'ui-custom-theme', vc_asset_url( 'css/ui-custom-theme/jquery-ui-less.custom.min.css' ), false, WPB_VC_VERSION );
 		wp_register_style( 'vc_animate-css', vc_asset_url( 'lib/bower/animate-css/animate.min.css' ), false, WPB_VC_VERSION, 'screen' );
 		wp_register_style( 'font-awesome', vc_asset_url( 'lib/bower/font-awesome/css/font-awesome.min.css' ), false, WPB_VC_VERSION, 'screen' );
-
+        wp_register_style( 'font-awesome-brands', vc_asset_url( 'lib/bower/font-awesome/css/brands.min.css' ), false, WPB_VC_VERSION, 'screen' );
+        wp_register_style( 'font-awesome-solids', vc_asset_url( 'lib/bower/font-awesome/css/solids.min.css' ), false, WPB_VC_VERSION, 'screen' );
 		wp_register_style( 'vc_inline_css', vc_asset_url( 'css/js_composer_frontend_editor.min.css' ), array(), WPB_VC_VERSION );
 
 	}

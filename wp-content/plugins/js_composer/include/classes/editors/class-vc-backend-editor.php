@@ -223,6 +223,8 @@ class Vc_Backend_Editor {
 			 * also used in vc_icon shortcode
 			 */
 			wp_register_style( 'font-awesome', vc_asset_url( 'lib/bower/font-awesome/css/font-awesome.min.css' ), array(), WPB_VC_VERSION );
+            wp_register_style( 'font-awesome-brands', vc_asset_url( 'lib/bower/font-awesome/css/brands.min.css' ), array(), WPB_VC_VERSION );
+            wp_register_style( 'font-awesome-solid', vc_asset_url( 'lib/bower/font-awesome/css/solid.min.css' ), array(), WPB_VC_VERSION );
 
 			/**
 			 * @todo check for usages
